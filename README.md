@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @bugPirates
 - 👀 I’m interested in shell code 
-- 🌱 I’m currently learning nodeJS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Ruby On Rails
 
 <!---
 bugPirates/bugPirates is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
